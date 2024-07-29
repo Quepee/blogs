@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "master lee says put ten words together",
+      "author": "Apostle Dika",
+      "id": "1"
+    },
+    {
+      "title": "my second blog",
+      "body": "all books are printed",
+      "author": "Bamboo",
+      "id": "0832"
+    },
+    {
+      "id": "1007",
+      "title": "French Fries",
+      "body": "when you slice and fry potatoes, it may be called french fries",
+      "author": "Quepee"
+    }
+  ]
+}
